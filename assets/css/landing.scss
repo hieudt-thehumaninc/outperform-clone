@@ -363,7 +363,7 @@ nav ul{
     transform: translateX(-50%);
     background: url("~/assets/img/progress.png") no-repeat;
 }
-.progress-current{transition: .3s;}
+.progress-current{transition: 0s;}
 .bg-gr{
     background: #000 url("~/assets/img/dc-2.png") no-repeat top left;
 }
