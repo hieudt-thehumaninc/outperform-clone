@@ -16,11 +16,11 @@ definePageMeta({
 const links = [
   {
     label: 'Features',
-    to: '/feature',
+    to: '/',
   },
   {
     label: 'Docs',
-    to: '/docs',
+    to: '/',
   },
 ]
 

@@ -5,17 +5,17 @@ import "~/assets/css/style.scss"
 
 const links = [{
   label: 'SmartMoney Radar',
-  to: '/smartmoney-radar',
+  to: '/',
 }, {
   label: "SmartMoney Scanner",
-  to: ''
+  to: '/'
 },{
   label: 'Copy Trading Bot',
-  to: '/copy-trading-bot',
+  to: '/',
   icon: 'arrow-up'
 },{
   label: 'Alert Bot',
-  to: '/alert-bot',
+  to: '/',
   icon: 'arrow-up'
 }]
 </script>
