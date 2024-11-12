@@ -518,6 +518,9 @@ onMounted(() => {
           </div>
         </div>
       </div>
+
+      <div class="section" id="section2"></div>
+      <div class="section" id="section3"></div>
     </div>
     <div class="absolute z-10 my-6 bottom-12 md:my-0 progress">
       <div class="absolute w-20 md:w-[156px] h-full bg-gradient progress-current" style="left: -12.5%"></div>
